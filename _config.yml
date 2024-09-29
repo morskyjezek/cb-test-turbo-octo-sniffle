@@ -18,12 +18,12 @@ source-code: https://github.com/morskyjezek/cb-test-turbo-octo-sniffle
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: DigLib Sample Collection
+title: DigLib Demo Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Sample Digital Collection of Library-Related Content
+tagline: A Digital Collection Demonstration of Library-Related Content
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Turbo Octo Samples Collection is a sample digital repository that displays content from digitized, library-related materials from the Library of Congress."
+description: "The DigLib Demo Collection is a sample digital repository that displays content from digitized, library-related materials from the Library of Congress."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: libraries;history;united states
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
