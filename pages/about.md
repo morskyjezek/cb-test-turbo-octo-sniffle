@@ -12,8 +12,18 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About Library Samples
+## About DigLib Demo Collection
 
-This demo collection features The Turbo Octo Samples Collection is a sample digital repository that displays content from library-related digitized materials from the Library of Congress.
-Content and metadata for this collection were retrieved from the Library of Congress'
-"Free to Use" Libraries set of images.
+This site is a demo collection built on the CollectionBuilder framework.
+The goal is to offer a basic, lightly edited, sample digital repository.
+The metadata and details of this collection are presented for demonstration only.
+Further work would need to be done to make this a production-level collection.
+For example, location information and dates should be checked for accuracy and consistency, among other things.
+
+## About the Library Content
+
+This collection demo displays content from library-related digitized
+materials from the Library of Congress.
+Content and metadata for this collection were retrieved
+from the Library of Congress' ["Free to Use" Libraries](https://www.loc.gov/free-to-use/libraries/)
+set of images.
